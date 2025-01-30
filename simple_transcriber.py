@@ -1,18 +1,17 @@
 import os
 from dotenv import load_dotenv
+import modal
+from datetime import datetime
 
 # Load environment variables from .env file
 load_dotenv()
 
-# Modal will automatically use these environment variables
-import modal
-from datetime import datetime
-
+stub = modal.Stub("transcription-app")
 
 class SimpleTranscriber:
     def __init__(self):
-        # Connect to Modal's WhisperX service
-        self.whisperx = modal.Cls.lookup("aip-processor", "WhisperX")
+        # Update to use the new recommended way to lookup Modal classes
+        self.whisperx = modal.Cls.from_name("aip-processor", "WhisperX")()
 
     def transcribe_and_diarize(self, audio_file_path: str, output_file: str = None):
         """
