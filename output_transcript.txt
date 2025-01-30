@@ -1,0 +1,16 @@
+[01:00:00] SPEAKER_00: What if you didn't have to work as much?
+[01:00:02] SPEAKER_00: What if you didn't have to worry about marketable skills after a few years out?
+[01:00:06] SPEAKER_00: What if you had a lot of leisure time?
+[01:00:07] SPEAKER_00: What would you do?
+[01:00:08] SPEAKER_00: I think more people should probably be thinking about that.
+[01:00:10] SPEAKER_00: We're just entering the steep part of the curve in robotics and probably we'll have like a lot of humanoid robots to actually do physical labor in the not too distant future.
+[01:00:20] SPEAKER_00: AI gods might be an emerging trend over the second half of the decade.
+[01:00:25] SPEAKER_00: I have no idea how we're going to relate to these things.
+[01:00:28] SPEAKER_00: If they are meaningfully superhuman, will we...
+[01:00:33] SPEAKER_00: even try to keep them under control?
+[01:00:35] SPEAKER_00: Will we worship them?
+[01:00:36] SPEAKER_00: We worship things that, as far as I can tell, don't exist at all.
+[01:00:40] SPEAKER_00: No matter how weird your alignment idea is, I think it is worth kind of pursuing.
+[01:00:44] SPEAKER_00: No matter how weird your kind of thoughts are about where the future might be going, I would say they're probably worth entertaining.
+[01:00:50] SPEAKER_00: Your scientists were so obsessed with whether or not they could, they didn't stop to think about whether or not they should.
+[01:00:56] SPEAKER_00: So this question is about if you could paint a picture of AI

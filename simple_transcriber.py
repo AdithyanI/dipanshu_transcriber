@@ -6,7 +6,7 @@ from datetime import datetime
 # Load environment variables from .env file
 load_dotenv()
 
-stub = modal.Stub("transcription-app")
+stub = modal.App("transcription-app")
 
 class SimpleTranscriber:
     def __init__(self):
