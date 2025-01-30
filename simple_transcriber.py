@@ -55,7 +55,7 @@ class SimpleTranscriber:
 if __name__ == "__main__":
     transcriber = SimpleTranscriber()
     transcript = transcriber.transcribe_and_diarize(
-        "https://dcs-spotify.megaphone.fm/RINTP8028609703.mp3",
+        "https://storage.aipodcast.ing/cache/trimmed_output.mp3",
         "output_transcript.txt"
     )
     print(transcript)
